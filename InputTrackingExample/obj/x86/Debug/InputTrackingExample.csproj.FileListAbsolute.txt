@@ -1,0 +1,12 @@
+C:\Users\serkanh.TABG\Source\Repos\OCR\InputTrackingExample\bin\Debug\InputTrackingExample.exe
+C:\Users\serkanh.TABG\Source\Repos\OCR\InputTrackingExample\bin\Debug\InputTrackingExample.pdb
+C:\Users\serkanh.TABG\Source\Repos\OCR\InputTrackingExample\obj\x86\Debug\InputTrackingExample.csprojResolveAssemblyReference.cache
+C:\Users\serkanh.TABG\Source\Repos\OCR\InputTrackingExample\obj\x86\Debug\MainWindow.baml
+C:\Users\serkanh.TABG\Source\Repos\OCR\InputTrackingExample\obj\x86\Debug\MainWindow.g.cs
+C:\Users\serkanh.TABG\Source\Repos\OCR\InputTrackingExample\obj\x86\Debug\App.g.cs
+C:\Users\serkanh.TABG\Source\Repos\OCR\InputTrackingExample\obj\x86\Debug\InputTrackingExample_MarkupCompile.cache
+C:\Users\serkanh.TABG\Source\Repos\OCR\InputTrackingExample\obj\x86\Debug\InputTrackingExample.g.resources
+C:\Users\serkanh.TABG\Source\Repos\OCR\InputTrackingExample\obj\x86\Debug\InputTrackingExample.Properties.Resources.resources
+C:\Users\serkanh.TABG\Source\Repos\OCR\InputTrackingExample\obj\x86\Debug\InputTrackingExample.csproj.GenerateResource.Cache
+C:\Users\serkanh.TABG\Source\Repos\OCR\InputTrackingExample\obj\x86\Debug\InputTrackingExample.exe
+C:\Users\serkanh.TABG\Source\Repos\OCR\InputTrackingExample\obj\x86\Debug\InputTrackingExample.pdb

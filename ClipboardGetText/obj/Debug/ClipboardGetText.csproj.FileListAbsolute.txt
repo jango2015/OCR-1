@@ -1,0 +1,9 @@
+C:\Users\serkanh.TABG\Source\Repos\OCR\ClipboardGetText\bin\Debug\ClipboardGetText.exe.config
+C:\Users\serkanh.TABG\Source\Repos\OCR\ClipboardGetText\bin\Debug\ClipboardGetText.exe
+C:\Users\serkanh.TABG\Source\Repos\OCR\ClipboardGetText\bin\Debug\ClipboardGetText.pdb
+C:\Users\serkanh.TABG\Source\Repos\OCR\ClipboardGetText\obj\Debug\ClipboardGetText.csprojResolveAssemblyReference.cache
+C:\Users\serkanh.TABG\Source\Repos\OCR\ClipboardGetText\obj\Debug\ClipboardGetText.Form1.resources
+C:\Users\serkanh.TABG\Source\Repos\OCR\ClipboardGetText\obj\Debug\ClipboardGetText.Properties.Resources.resources
+C:\Users\serkanh.TABG\Source\Repos\OCR\ClipboardGetText\obj\Debug\ClipboardGetText.csproj.GenerateResource.Cache
+C:\Users\serkanh.TABG\Source\Repos\OCR\ClipboardGetText\obj\Debug\ClipboardGetText.exe
+C:\Users\serkanh.TABG\Source\Repos\OCR\ClipboardGetText\obj\Debug\ClipboardGetText.pdb
